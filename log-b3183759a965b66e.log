@@ -1,0 +1,3 @@
+{"timestamp":"2026-01-22T09:46:15.661Z","level":"info","message":"App listening on port:10006","service":"nemo3-api-geofence-svc","instance":"localhost","ip":"127.0.0.1","environment":"DEVELOPMENT"}
+{"timestamp":"2026-01-22T09:46:42.652Z","level":"info","message":"::1 POST /api/v1/fms/geofence/create 403 139 - 30.455 ms\n","service":"nemo3-api-geofence-svc","instance":"localhost","ip":"127.0.0.1","environment":"DEVELOPMENT"}
+{"timestamp":"2026-01-22T09:47:22.953Z","level":"info","message":"::1 POST /api/v1/fms/geofence/create 403 139 - 10.981 ms\n","service":"nemo3-api-geofence-svc","instance":"localhost","ip":"127.0.0.1","environment":"DEVELOPMENT"}
